@@ -1,6 +1,6 @@
 # 1brc-go 
 
-The One Billion Row Challenge (1BRC) is a fun exploration of how far modern Java can be pushed for aggregating one billion rows from a text file.<br/>
+The One Billion Row Challenge (1BRC) is a fun exploration of how far modern languages can be pushed for aggregating one billion rows from a text file. The Dataset for angregation is around 13GB.<br/>
 <img src="https://github.com/ayush18023/1brc-go/assets/80062397/dfceb7f7-0c31-409d-ab26-c2067d925c2f" width="400" /><br/>
 The Challenge was originally coined for Java based compilers but here i have implemented in golang .
 
